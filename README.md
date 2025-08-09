@@ -1,5 +1,4 @@
 # Spotify-User-Listening-Behavior-Analysis
-Spotify streaming history Analysis 
 
 Analysis of personal Spotify streaming history to uncover patterns in listening habits, favorite artists, songs, and usage behavior, along with classification modeling to predict skip behavior.
 
