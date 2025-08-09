@@ -60,10 +60,10 @@ Streaming services like Spotify collect vast amounts of user listening data. Thi
 - Pie charts for skip rate distribution.
 
 ## Results Summary
-- **Most played artist:** [placeholder]
-- **Most played song:** [placeholder]
-- **Peak listening time:** [placeholder]
-- **Overall best classification model:** [placeholder] with accuracy **[placeholder]**.
+- **Most played artist:** The Beatles  
+- **Most played song:** Concerning Hobbits
+- **Peak listening time:** 12AM
+- **Overall best classification model:** Decision Tree with accuracy **99%**.
 
 ## Future Scope
 - Tune hyperparameters for higher classification accuracy.
