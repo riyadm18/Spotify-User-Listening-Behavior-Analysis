@@ -56,7 +56,7 @@ Streaming services like Spotify collect vast amounts of user listening data. Thi
 
 ### 4. Visualizations
 - Bar charts for top artists and songs.
-- Heatmaps for hourly listening trends.
+- Bar charts for hourly listening trends.
 - Pie charts for skip rate distribution.
 
 ## Results Summary
