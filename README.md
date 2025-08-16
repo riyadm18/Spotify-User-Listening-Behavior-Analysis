@@ -49,10 +49,10 @@ Streaming services like Spotify collect vast amounts of user listening data. Thi
 #### Evaluation Metrics:
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|--------|----------|
-| Logistic Regression | [placeholder] | [placeholder] | [placeholder] | [placeholder] |
-| Decision Tree | [placeholder] | [placeholder] | [placeholder] | [placeholder] |
-| Random Forest | [placeholder] | [placeholder] | [placeholder] | [placeholder] |
-| Gradient Boosting | [placeholder] | [placeholder] | [placeholder] | [placeholder] |
+| Logistic Regression | 0.9479 | 0.98 | 0.94 | 0.96 |
+| Decision Tree | 0.9947 | 0.95 | 0.95 | 0.95 |
+| Random Forest |  0.9958 | 0.98 | 0.94 | 0.96 | 		
+| Gradient Boosting | 0.9942 | 1.00 | 0.98 | 0.94 |
 
 ### 4. Visualizations
 - Bar charts for top artists and songs.
@@ -63,7 +63,7 @@ Streaming services like Spotify collect vast amounts of user listening data. Thi
 - **Most played artist:** The Beatles  
 - **Most played song:** Concerning Hobbits
 - **Peak listening time:** 12AM
-- **Overall best classification model:** Decision Tree with accuracy **99%**.
+- **Overall best classification model:** Random Forest with accuracy **99.5%**.
 
 ## Future Scope
 - Tune hyperparameters for higher classification accuracy.
