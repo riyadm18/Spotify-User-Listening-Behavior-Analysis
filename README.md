@@ -62,7 +62,6 @@ Streaming services like Spotify collect vast amounts of user listening data. Thi
 ## Results Summary
 - **Most played artist:** The Beatles  
 - **Most played song:** Concerning Hobbits
-- **Peak listening time:** 12AM
 - **Overall best classification model:** Random Forest with accuracy **99.5%**.
 
 ## Future Scope
